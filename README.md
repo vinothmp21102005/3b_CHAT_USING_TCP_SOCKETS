@@ -1,8 +1,8 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
-### NAME : KARUNIYA M
-### REG NO : 212223240068
+### NAME : VINOTH M P 
+### REG NO : 212223240182
 ## ALGORITHM:
 1. Import the necessary modules in python
 2. Create a socket connection to using the socket module.
